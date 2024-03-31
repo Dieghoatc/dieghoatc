@@ -38,6 +38,20 @@ const aboutMe {
 
 - 🛢 &nbsp; MySQL | MongoDB
   
-- 🌐 &nbsp; HTML | CSS | JavaScript 
+- 🌐 &nbsp; HTML | CSS | JavaScript
+- 
+<hr>
 
 
+
+<br/><br/>
+
+[![Shivam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dieghoatc&show_icons=true)](https://github.com/dieghoatc)
+
+<br/>
+
+<br/>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dieghoatc&show_icons=true)
+
+<br><br>
