@@ -9,11 +9,11 @@ I'm a software developer with experience as a Front-End Developer.
 const aboutMe {
     name: "Diego",
     from: "Colombia",
-        techStack: {
-            "javaScript": "React ❤️ - TypeScript",
-            "test": "Vitest",
-            "css": "Tailwind CSS"
-        }
+    techStack: {
+        "javaScript": "React ❤️ - TypeScript",
+        "test": "Vitest",
+        "css": "Tailwind CSS"
+    }
 }
 ```
 <h3> • 🛠 To Learn</h3>
