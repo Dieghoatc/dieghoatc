@@ -8,7 +8,7 @@ I'm a software developer with experience as a Front-End Developer.
 ```js
 const aboutMe {
     name: "Diego",
-    form: "Colombia",
+    from: "Colombia",
         techStack: {
             "javaScript": "React ❤️ - TypeScript",
             "test": "Vitest",
@@ -23,10 +23,13 @@ const aboutMe {
   describe("Exploring new technologies and developing software" () => {
       test("AWS" () => {
           expect("Learning about the AWS environment").tobe({"S3", "Lambda"})
-  })
+      })
       test("Mobile Developer" () => {
           expect("Learning about the Mobile Developer").tobe("React Native")
-  })
+      })
+      test("Decentralized applications (dApps) " () => {
+          expect("Learning about the Solana Developer").tobe("Smart Contracts whit solana, and Rust")
+      })
 })
 ```
 <h3> • 🧠 What i'm up to</h3>
