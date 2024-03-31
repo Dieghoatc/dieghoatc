@@ -39,7 +39,7 @@ const aboutMe {
 - 🛢 &nbsp; MySQL | MongoDB
   
 - 🌐 &nbsp; HTML | CSS | JavaScript
-- 
+
 <hr>
 
 
