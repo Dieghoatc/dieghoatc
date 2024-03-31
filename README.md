@@ -1,16 +1,33 @@
-### Hi there 👋
+### Hi there 👀 <h2> I'm Dieghoatc</h2>
+<img align='right' src="https://raw.githubusercontent.com/Dieghoatc/dieghoatc/main/assets/pic_dieghoatc.png" width="230">
 
-<!--
-**Dieghoatc/dieghoatc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3> • 💻 About Me </h3>
 
-Here are some ideas to get you started:
+I'm a software developer with experience as a Front-End Developer. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```js
+const aboutMe {
+    name: "Diego",
+    form: "Colombia",
+        techStack: {
+            "javaScript": "React ❤️ - TypeScript",
+            "test": "Vitest",
+            "css": "Tailwind CSS"
+        }
+}
+```
+<h3> • 🛠 To Learn</h3>
+
+```js
+
+  describe("Exploring new technologies and developing software" () => {
+      test("AWS" () => {
+          expect("Learning about the AWS environment").tobe({"S3", "Lambda"})
+  })
+      test("Mobile Developer" () => {
+          expect("Learning about the Mobile Developer").tobe("React Native")
+  })
+})
+```
+<h3> • 🧠 What i'm up to</h3>
+- 👾 I’m currently working with React.
