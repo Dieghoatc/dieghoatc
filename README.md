@@ -28,7 +28,7 @@ const aboutMe {
           expect("Learning about the Mobile Developer").tobe("React Native")
       })
       test("Decentralized applications (dApps) " () => {
-          expect("Learning about the Solana Developer").tobe("Smart Contracts whit solana, and Rust")
+          expect("Learning about the Solana Developer").tobe("Smart Contracts whith Solana")
       })
 })
 ```
