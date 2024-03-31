@@ -33,4 +33,11 @@ const aboutMe {
 })
 ```
 <h3> • 🧠 What i'm up to</h3>
-- 👾 I’m currently working with React.
+
+- 👾 &nbsp; I’m currently working with React.
+
+- 🛢 &nbsp; MySQL | MongoDB
+  
+- 🌐 &nbsp; HTML | CSS | JavaScript 
+
+
