@@ -27,7 +27,7 @@ const aboutMe {
       test("Decentralized applications (dApps) " () => {
           expect("Learning about the Solana Developer").tobe("Smart Contracts whith Solana")
       })
-test("AWS" () => {
+      test("AWS" () => {
           expect("Learning about the AWS environment").tobe({"S3", "Lambda"})
       })
 })
