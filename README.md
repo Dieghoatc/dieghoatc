@@ -25,7 +25,7 @@ const aboutMe {
           expect("Learning about the AWS environment").tobe({"S3", "Lambda"})
       })
       test("Mobile Developer" () => {
-          expect("Learning about the Mobile Developer").tobe("React Native")
+          expect("Learning about the Mobile Developer").tobe("Kotlin - React Native")
       })
       test("Decentralized applications (dApps) " () => {
           expect("Learning about the Solana Developer").tobe("Smart Contracts whith Solana")
