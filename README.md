@@ -10,9 +10,11 @@ const aboutMe {
     name: "Diego",
     from: "Colombia",
     techStack: {
-        "javaScript": "React ❤️ - TypeScript",
-        "test": "Vitest",
-        "css": "Tailwind CSS"
+        "languaje": "TypeScript",
+        "front-end: React and NextJS",
+        "back-end: Node and Nestjs"
+        "mobile: Jetpack Compose",
+        "sql: sqlite and postgresql"
     }
 }
 ```
@@ -22,10 +24,7 @@ const aboutMe {
 
   describe("Exploring new technologies and developing software" () => {
       test("Mobile Developer" () => {
-          expect("Learning about the Mobile Developer").tobe("Kotlin - React Native")
-      })
-      test("Decentralized applications (dApps) " () => {
-          expect("Learning about the Solana Developer").tobe("Smart Contracts whith Solana")
+          expect("Learning about the Mobile Developer").tobe("Kotlin")
       })
       test("AWS" () => {
           expect("Learning about the AWS environment").tobe({"S3", "Lambda"})
@@ -36,7 +35,7 @@ const aboutMe {
 
 - 👾 &nbsp; I’m currently working with React.
 
-- 🛢 &nbsp; MySQL | MongoDB
+- 🛢 &nbsp; SQL
   
 - 🌐 &nbsp; HTML | CSS | JavaScript
 
