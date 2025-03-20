@@ -32,7 +32,7 @@ const aboutMe {
           expect("Learning about the Mobile Developer").tobe("Kotlin")
       })
       test("Python" () => {
-          expect("Im looking improve my skills with").tobe(Python")
+          expect("Im looking improve my skills with").tobe("Python")
       })
 })
 ```
