@@ -31,10 +31,9 @@ const aboutMe {
       })
 })
 ```
-<h3> • 🧠 What i'm up to</h3>
+|  |  |
+|----------|----------|
+| Languajes | JavaScript - Typescript -    |
+| Row 2    | Cell 5   | 
+| Row 3    | Cell 8   | 
 
-- 👾 &nbsp; I’m currently working with React.
-
-- 🛢 &nbsp; SQL
-  
-- 🌐 &nbsp; HTML | CSS | JavaScript
