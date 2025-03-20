@@ -1,9 +1,14 @@
-### Hi there 👀 <h2> I'm Dieghoatc</h2>
-<img align='right' src="https://raw.githubusercontent.com/Dieghoatc/dieghoatc/main/assets/pic_dieghoatc.png" width="230">
+# Hi there 👀  I'm Dieghoatc
 
-<h3> • 💻 About Me </h3>
+## • 💻 About Me 
 
 I'm a software developer with experience as a Front-End Developer. 
+
+You can see my portfolio in [dieghoatc.com](www.dieghoatc.com)
+
+### Portfolio
+
+[dieghoatc.com](www.dieghoatc.com)
 
 ```js
 const aboutMe {
@@ -18,7 +23,7 @@ const aboutMe {
     }
 }
 ```
-<h3> • 🛠 To Learn</h3>
+### 🛠 To Learn
 
 ```js
 
@@ -26,14 +31,13 @@ const aboutMe {
       test("Mobile Developer" () => {
           expect("Learning about the Mobile Developer").tobe("Kotlin")
       })
-      test("AWS" () => {
-          expect("Learning about the AWS environment").tobe({"S3", "Lambda"})
+      test("Python" () => {
+          expect("Im looking improve my skills with").tobe(Python")
       })
 })
 ```
-|  |  |
-|----------|----------|
-| Languajes | JavaScript - Typescript -    |
-| Row 2    | Cell 5   | 
-| Row 3    | Cell 8   | 
+### Projects
 
+| Name | Describe | Languaje and Framewors | Live |
+|----------|----------| ---------- | ---------- |
+| Autobusesdecolombia.com | Website about buses in Colombia | TypeScript, NextJS, NestJS, SQLite | [autobusesdecolombia](https://autobusesdecolombia.com) |
