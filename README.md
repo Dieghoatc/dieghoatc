@@ -4,11 +4,9 @@
 
 I'm a software developer with experience as a Front-End Developer. 
 
-You can see my portfolio in [dieghoatc.com](www.dieghoatc.com)
-
 ### Portfolio
 
-[dieghoatc.com](www.dieghoatc.com)
+You can see my portfolio in [dieghoatc.com](httpswww.dieghoatc.com)
 
 ```js
 const aboutMe {
