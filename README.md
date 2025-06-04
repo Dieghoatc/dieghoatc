@@ -38,6 +38,6 @@ const aboutMe {
 
 | Name | Describe | Languaje and Framewors | Live |
 |----------|----------| ---------- | ---------- |
-| Autobusesdecolombia.com | Website about buses in Colombia | TypeScript,, React, NextJS, CSSModules | [autobusesdecolombia](https://autobusesdecolombia.com) |
-| API autobusesdecolombia | API | TypeScript, NestJS, SQLite | [APIautobusesdecolombia](https://api.autobusesdecolombia.com) |
+| Autobusesdecolombia.com | Website about buses in Colombia | TypeScript, React, NextJS, CSSModules | [autobusesdecolombia](https://autobusesdecolombia.com) |
+| API autobusesdecolombia | API | TypeScript, NestJS, SQLite | [API autobusesdecolombia](https://api.autobusesdecolombia.com) |
 | YoLeHAgo | Website about casual task in Colombia | TypeScript, NestJS, SQLite | [Yolehago](https://yolehagoweb.vercel.app) |
