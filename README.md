@@ -1,8 +1,8 @@
 # Diego Tejedor - Dieghoatc
 
-## Developer Mobile - Full-Stack
+Developer Mobile - Full-Stack
 
-## Projects
+Projects
 
 -  [autobusesdecolombia.com](https://autobusesdecolombia.com) - News and Multimedia gallery about Colombian autobuses.
 -  [api.autobusesdecolombia.com](https://api.autobusesdecolombia.com) - Api autobuses. 
