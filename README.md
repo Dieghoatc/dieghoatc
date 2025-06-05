@@ -1,4 +1,4 @@
-# Diego Tejedor - Dieghoatc
+# Dieghoatc
 
 Developer Mobile - Full-Stack
 
